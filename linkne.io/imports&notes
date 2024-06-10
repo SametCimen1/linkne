@@ -1,0 +1,24 @@
+Installed libraries:
+    @reduxjs/toolkit
+    animate.css
+    aos
+    axios
+    *chart.js // unnecessary \\
+    daisyui
+    localforage // 10kb improves the offline experience of your web app by using asynchronous storage
+    match-sorter //164kb unpacked  can be used to sort the array returned from getLinks in public profile
+    react
+    react-avatar-editor
+    react-chartjs-2
+    react-cookie
+    react-dom
+    *react-dropzone // unnecessary \\
+    *react-easy-crop // unnecessary \\
+    react-redux
+    react-responsive-masonry
+    react-router-dom
+    react-scripts
+    redux
+    sass*
+    *sort-by // unnecessary \\
+    web-vitals
